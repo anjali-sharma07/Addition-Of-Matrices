@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class AdditionOfMatrics {
+public class additionOfMatrices {
 
 
         static void printArray(int[][] arr){
@@ -58,6 +58,7 @@ public class AdditionOfMatrics {
     }
 
         printArray(ans);
+            System.out.println("hii");
     }
 }}
 
