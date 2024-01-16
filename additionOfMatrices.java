@@ -12,9 +12,6 @@ public class additionOfMatrices {
             System.out.println();
         }
 
-        static void additionOfMatrics(int[][] arr1, int[][] arr2){
-
-        }
 
     public static void main(String[] args){
             Scanner sc = new Scanner(System.in);
@@ -58,7 +55,7 @@ public class additionOfMatrices {
     }
 
         printArray(ans);
-            System.out.println("hii");
+
     }
 }}
 
